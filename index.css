@@ -27,11 +27,11 @@
   justify-content: center;
 }
 .dark-mode-toggle {
-  padding: 0.3em;
+  padding: 1em;
   border-radius: 100%;
   margin: 0.5em;
   outline: none;
-  border: none;
+  border: 3px solid rebeccapurple;
 }
 body {
   background-color: var(--bg-color-light);
